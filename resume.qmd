@@ -1,61 +1,63 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Taylor Alvey's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Taylor Alvey
+Computer Enthusiast, Engineer, Scientist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="taylor.alvey5@gmail.com">taylor.alvey5@gmail.com</a>
+| <a href="https://docs.google.com/document/d/1TKS5fHqLyytoraWm03asFqvHHXetaYgQTZ59mb8x1P0/edit?usp=sharing">My Resume Document</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studing Computer Engineering
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Python, HTML, CSS, PHP, JavaScript, Pandas, JAVA, Machine Code, SQL.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Artificial Intelligence, Database Implementation, Computer Hardware, Website Applications.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`August 2019- May 2021`
+__Pine View High School__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`September 2021 - May 2022`
+__Utah State University__
 
-- Sizar
+- Undergraduate
 
-`1667 - death`
-__Trinity College, Cambridge__
+`January 2025 - Now`
+__Brigham Young University at Idaho__
 
-- Fellow
+- Undergraduate
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2021`
+Scholar, *Regents*, St. George, Utah
 
-Associate, *French Academy of Science*, Paris, France
+Academic All-American, *UHSAA*, St. George, Utah
 
 
 
-## Publications
+## Projects
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<a href="https://amhart02.github.io/musicportfolio/">Website Project</a>
 
-### Journals
+<a href="http://mealplanning.altervista.org/">Recipe Database Project</a>
+
+<!-- ### Journals
 
 `1669`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
@@ -63,27 +65,37 @@ Newton Sir I, De analysi per æquationes numero terminorum infinitas.
 `1669`
 Lectiones opticæ.
 
-etc. etc. etc.
+etc. etc. etc. -->
 
-### Patents
+<!-- ### Patents
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+ -->
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2022`
+__Panda Express__, St. George, Utah
 
-- Warden
-- Minted coins
+- Front End Associate
+- Served Food
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2024`
+__Costco Wholesale__, St. George, Utah
+
+- Bakery Organizational Specialist
+- Wrapper and Baker
+
+`2024`
+__Melaleuca The Wellness Company__, Rexburg, Idaho
+
+- Wellness Department
+- Customer Service Call Center
 
 
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+### Footer
+
+Last updated: April 2025
